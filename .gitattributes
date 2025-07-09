@@ -1,0 +1,10 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Ensure these file types always have LF line endings
+*.py text eol=lf
+*.ipynb text eol=lf
+*.md text eol=lf
+
+# Ensure CSV files use CRLF on Windows
+*.csv text eol=crlf
