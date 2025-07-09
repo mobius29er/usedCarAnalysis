@@ -77,7 +77,7 @@ This project analyzes over 400,000 used car listings to identify what factors in
 - `usedCarAnalysis.ipynb` – Main notebook with step-by-step analysis
 - `model_coefficients_comparison.csv` – Feature weights for each model
 - `model_results_summary.csv` – Evaluation metrics comparison
-- 'vehicles.csv' the dataset used for training the model
+- `vehicles.csv` the dataset used for training the model
 - Visuals and grouped plots inline
 
 ## 🚙 Who This Helps
